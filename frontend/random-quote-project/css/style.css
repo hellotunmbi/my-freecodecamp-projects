@@ -1,0 +1,45 @@
+body {
+	margin: 20px 0;
+	background-color: #f7f7f2;
+	color: #F00;
+}
+
+.page_title {
+	margin-bottom: 30px;
+	align-items: center;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.quote_box {
+	border: 2px solid #EDD;
+	padding: 15px 30px;
+	text-align: center;
+}
+
+.quote_box h1 {
+	margin: auto;
+}
+
+.quote_item {
+	font-size: 20px;
+	
+}
+
+.quote_author {
+	text-align: right;
+	margin-top: 10px;
+}
+
+.quote_author:before {
+	content: " - ";
+}
+
+.quote_next {
+	float: right;
+	margin-top: 10px;
+}
+
+.footer {
+	margin-top: 15px;
+}
