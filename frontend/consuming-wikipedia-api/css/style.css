@@ -1,0 +1,21 @@
+body { 
+  margin-top: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arimo, "Liberation Sans", "Lucida Grande", sans-serif
+}
+
+h1, h2, h3 {
+  font-family: "Helvetica Neue", Helvetica, Arimo, "Liberation Sans", "Lucida Grande", sans-serif;
+}
+
+
+.result {
+  display: block;
+  text-decoration: none;
+  color: black;
+  position: relative;
+}
+.result:hover {
+  text-decoration: none;
+  top: 1px;
+  left: 1px;
+}
